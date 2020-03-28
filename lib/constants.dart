@@ -6,6 +6,8 @@ const kInactiveCardColor = Color(0xFF111328);
 const kBottomContainerColor = Color(0xFFEB1555);
 const kSliderActiveColor = Color(0xFFEB1555);
 const kSliderInactiveColor = Color(0xFF8D8E98);
+const kThumbColor = Color(0xFFEB1555);
+const kSliderOverlayColor = Color(0x29EB1555);
 
 const kLabelTextStyle = TextStyle(
   fontSize: 18.0,
